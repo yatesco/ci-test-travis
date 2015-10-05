@@ -6,5 +6,3 @@
   (testing "FIXME, I fail."
     (is (= 0 0))))
 
-(deftest another-test
-  (is (= 10 a-value)))
