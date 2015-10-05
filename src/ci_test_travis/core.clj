@@ -5,4 +5,4 @@
   [x]
   (println x "Hello, World!"))
 
-(def a-value 20)
+(def a-value 10)
