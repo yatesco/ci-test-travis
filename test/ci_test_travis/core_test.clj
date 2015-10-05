@@ -5,4 +5,5 @@
 (deftest a-test
   (testing "FIXME, I fail."
     (is (= 0 0))))
-
+(deftest failing
+  (is (= 10 a-value)))
