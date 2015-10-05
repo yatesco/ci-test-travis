@@ -1,5 +1,5 @@
 language: clojure
-script: lein do clean, test, jar
+script: 'lein do clean, test, jar'
 deploy:
   provider: releases
   api_key:
